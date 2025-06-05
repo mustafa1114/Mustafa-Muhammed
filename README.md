@@ -52,14 +52,9 @@
 
 - 💬 Sprich mich an für Praktika, Projekte oder Teamarbeit!
 - 📍 Ulm, Deutschland
-- 📧 mustafa@example.com *(ersetze durch deine echte Mail)*
-- Telegram: [@deinTelegram](https://t.me/deinTelegram)
+- 📧 MustafaMuhammed1114@gmail.com *(ersetze durch deine echte Mail)*
+  
 
----
-
-### 🎯 Ziel
-
-**Mein Ziel:** als Webentwickler ein Bruttogehalt von **9.000 €** zu erreichen – mit ständiger Weiterentwicklung, echtem Mehrwert und echter Leidenschaft für Code.
 
 ---
 
