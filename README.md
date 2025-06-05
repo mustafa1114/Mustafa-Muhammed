@@ -41,8 +41,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide=issues" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mustafa-muhammed&show_icons=true&theme=tokyonight&hide=issues" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-muhammed&layout=compact&theme=tokyonight" width="48%" />
+
 
 </div>
 
