@@ -9,13 +9,13 @@
 
 ### 👋 Hallo! Ich bin Mustafa Muhammed
 
-🎓 Informatikstudent an der IU Internationale Hochschule  
-💻 Webentwickler – spezialisiert auf **Frontend & Backend**  
-🌍 Leidenschaftlich über moderne Webtechnologien, clean Code und performante Interfaces
+💼 **Softwareentwickler** mit Fokus auf Webanwendungsoberflächen  
+🎓 Student an der IU Internationale Hochschule  
+🧠 Leidenschaftlich über moderne Webtechnologien, sauberen Code und performante Interfaces
 
 ---
 
-### 🧰 Technologien & Tools, die ich benutze:
+### 🧰 Technologien & Tools, die ich verwende:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -31,9 +31,9 @@
 
 ### 🔭 Aktuell arbeite ich an:
 
-- Webanwendungen mit **Java Spring Boot** & **MySQL**
-- Python-basierte Tools für Automatisierung & Datenverarbeitung
-- Eigene Projekte auf GitHub mit Fokus auf sauberen Code
+- Webanwendungen mit **Java (Spring Boot)** und **MySQL**
+- Python-Tools für Datenverarbeitung & Automatisierung
+- Benutzerfreundliche Frontends mit modernem UI/UX
 
 ---
 
@@ -50,18 +50,17 @@
 
 ### 📫 Kontakt
 
-- 💬 Sprich mich an für Praktika, Projekte oder einfach zum Coden!
+- 💬 Sprich mich an für Praktika, Projekte oder Teamarbeit!
 - 📍 Ulm, Deutschland
-- 📧 mustafa@example.com *(ersetze durch deine Mail)*
+- 📧 mustafa@example.com *(ersetze durch deine echte Mail)*
 - Telegram: [@deinTelegram](https://t.me/deinTelegram)
 
 ---
 
 ### 🎯 Ziel
 
-**Mein Ziel:** ein hochqualifizierter Webentwickler zu werden mit einem Brutto-Gehalt von 9.000 € – und auf dem Weg dorthin jeden Tag besser werden!
+**Mein Ziel:** als Webentwickler ein Bruttogehalt von **9.000 €** zu erreichen – mit ständiger Weiterentwicklung, echtem Mehrwert und echter Leidenschaft für Code.
 
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
