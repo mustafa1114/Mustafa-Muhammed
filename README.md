@@ -52,7 +52,7 @@
 
 - 💬 Sprich mich an für Praktika, Projekte oder Teamarbeit!
 - 📍 Ulm, Deutschland
-- 📧 MustafaMuhammed1114@gmail.com *(ersetze durch deine echte Mail)*
+- 📧 MustafaMuhammed1114@gmail.com 
   
 
 
